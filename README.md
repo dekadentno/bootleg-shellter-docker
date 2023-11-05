@@ -1,6 +1,6 @@
 # Bootleg Shellter Docker
 
-This is a Docker image called ShellterInDocker that's made to help folks preparing for the OSCP, especially if you've had trouble getting Wine to work on ARM64 systems. It's got wget and nano for downloading stuff and editing files, plus [Shellter](https://www.shellterproject.com/), a tool for hiding code inside other programs. I made this so I can focus on studying instead of fixing Wine problems.
+This is a Docker image that's made to help folks preparing for the OSCP, especially if you've had trouble getting Wine to work on ARM64 systems. It's got wget and nano for downloading stuff and editing files, plus [Shellter](https://www.shellterproject.com/), a tool for hiding code inside other programs. I made this so I can focus on studying instead of fixing Wine problems.
 
 I'm still learning Docker, so this image might not follow all the best practices, but it gets the job done.
 
